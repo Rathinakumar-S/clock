@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/http//RATHINAKUMAR-S.github.io/clock/static/css/main.614a27e8.css",
+    "main.js": "/http//RATHINAKUMAR-S.github.io/clock/static/js/main.20a894ec.js",
+    "static/media/build.jpg": "/http//RATHINAKUMAR-S.github.io/clock/static/media/build.d9bf89a1da5d19b68711.jpg",
+    "index.html": "/http//RATHINAKUMAR-S.github.io/clock/index.html",
+    "main.614a27e8.css.map": "/http//RATHINAKUMAR-S.github.io/clock/static/css/main.614a27e8.css.map",
+    "main.20a894ec.js.map": "/http//RATHINAKUMAR-S.github.io/clock/static/js/main.20a894ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.614a27e8.css",
+    "static/js/main.20a894ec.js"
+  ]
+}
